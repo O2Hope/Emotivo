@@ -37,7 +37,7 @@ namespace Emotivo.Web.Models
             set;
         }
 
-        public int Weight
+        public int Height
         {
             get;
             set;

@@ -1,0 +1,22 @@
+﻿@model object
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+      @using (Html.BeginForm("Index" ,"Uploader", FormMethod.Post ))
+      {
+          <input type="file" name="file" /><br/>
+          <input type="submit" value="send"/>
+      }
+</div>
+</body>
+</html>

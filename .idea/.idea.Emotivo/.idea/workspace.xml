@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="669931ad-364e-44a0-a586-d6e9e090f7d0" name="Default" comment="" />
+    <list default="true" id="669931ad-364e-44a0-a586-d6e9e090f7d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Emotivo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Emotivo.Web/Controllers/UploaderController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Emotivo.Web/Helpers/EmotionHelper.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Emotivo.Web/Views/Uploader/Index.cshtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Emotivo.Web/bin/Debug/netcoreapp1.1/Emotivo.Web.dll" afterPath="$PROJECT_DIR$/Emotivo.Web/bin/Debug/netcoreapp1.1/Emotivo.Web.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Emotivo.Web/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/Emotivo.Web.pdb" afterPath="$PROJECT_DIR$/Emotivo.Web/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/Emotivo.Web.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Emotivo.Web/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Emotivo.Web/obj/Debug/netcoreapp1.1/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Emotivo.Web/obj/Debug/netcoreapp1.1/Emotivo.Web.dll" afterPath="$PROJECT_DIR$/Emotivo.Web/obj/Debug/netcoreapp1.1/Emotivo.Web.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Emotivo.Web/obj/Debug/netcoreapp1.1/Emotivo.Web.pdb" afterPath="$PROJECT_DIR$/Emotivo.Web/obj/Debug/netcoreapp1.1/Emotivo.Web.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Emotivo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Emotivo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Emotivo.Web/Models/EmotionEnum.cs" afterPath="$PROJECT_DIR$/Emotivo.Web/Models/EmotionEnum.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Emotivo.Web/Models/Face.cs" afterPath="$PROJECT_DIR$/Emotivo.Web/Models/Face.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,98 +24,39 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="PictureController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/PictureController.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UploaderController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/UploaderController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="643">
+              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
               <folding>
-                <marker date="1502061801000" expanded="true" signature="6:268" ph="..." />
-                <marker date="1502061801000" expanded="true" signature="418:720" ph="{...}" />
-                <marker date="1502061801000" expanded="true" signature="468:718" ph="{...}" />
-                <marker date="1502061801000" expanded="true" signature="559:596" ph="{...}" />
-                <marker date="1502061801000" expanded="true" signature="664:711" ph="{...}" />
+                <marker date="1502127681000" expanded="true" signature="6:164" ph="..." />
+                <marker date="1502127681000" expanded="true" signature="199:1333" ph="{...}" />
+                <marker date="1502127681000" expanded="true" signature="250:1331" ph="{...}" />
+                <marker date="1502127681000" expanded="true" signature="461:527" ph="{...}" />
+                <marker date="1502127681000" expanded="true" signature="588:635" ph="{...}" />
+                <marker date="1502127681000" expanded="true" signature="718:1325" ph="{...}" />
+                <marker date="1502127681000" expanded="true" signature="822:1249" ph="{...}" />
+                <marker date="1502127681000" expanded="true" signature="911:1235" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Picture/Index.cshtml">
+        <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Uploader/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="240">
+              <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding>
-                <marker date="1502061801000" expanded="true" signature="15:38" ph="@..." />
-                <marker date="1502061801000" expanded="true" signature="57:146" ph="&lt;html.../&gt;" />
-                <marker date="1502061801000" expanded="true" signature="64:103" ph="&lt;head.../&gt;" />
-                <marker date="1502061801000" expanded="true" signature="104:138" ph="&lt;body.../&gt;" />
-                <marker date="1502061801000" expanded="true" signature="111:130" ph="&lt;div.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Emotivo.Web/appsettings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <marker date="1502064780000" expanded="true" signature="25:58" ph="{...}" />
-                <marker date="1502064780000" expanded="true" signature="73:157" ph="{...}" />
-                <marker date="1502064780000" expanded="true" signature="119:153" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/HomeController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <marker date="1502067383000" expanded="true" signature="66:226" ph="{...}" />
-                <marker date="1502067383000" expanded="true" signature="113:224" ph="{...}" />
-                <marker date="1502067383000" expanded="true" signature="171:218" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Home/Index.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="13" />
-              <folding>
-                <marker date="1502067380000" expanded="true" signature="15:38" ph="@..." />
-                <marker date="1502067380000" expanded="true" signature="57:146" ph="&lt;html.../&gt;" />
-                <marker date="1502067380000" expanded="true" signature="64:103" ph="&lt;head.../&gt;" />
-                <marker date="1502067380000" expanded="true" signature="104:138" ph="&lt;body.../&gt;" />
-                <marker date="1502067380000" expanded="true" signature="111:130" ph="&lt;div.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Emotivo.Web/Startup.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="58" column="47" lean-forward="false" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
-              <folding>
-                <marker date="1502067563000" expanded="false" signature="6:357" ph="..." />
-                <marker date="1502067563000" expanded="true" signature="380:2161" ph="{...}" />
-                <marker date="1502067563000" expanded="true" signature="407:2159" ph="{...}" />
-                <marker date="1502067563000" expanded="true" signature="461:849" ph="{...}" />
-                <marker date="1502067563000" expanded="true" signature="1076:1306" ph="{...}" />
-                <marker date="1502067563000" expanded="true" signature="1524:2153" ph="{...}" />
-                <marker date="1502067563000" expanded="true" signature="1685:1800" ph="{...}" />
-                <marker date="1502067563000" expanded="true" signature="1817:1901" ph="{...}" />
-                <marker date="1502067563000" expanded="true" signature="1970:2141" ph="{...}" />
+                <marker date="1502123318000" expanded="true" signature="15:38" ph="@..." />
+                <marker date="1502123318000" expanded="true" signature="57:319" ph="&lt;html.../&gt;" />
+                <marker date="1502123318000" expanded="true" signature="64:103" ph="&lt;head.../&gt;" />
+                <marker date="1502123318000" expanded="true" signature="104:311" ph="&lt;body.../&gt;" />
+                <marker date="1502123318000" expanded="true" signature="111:303" ph="&lt;div.../&gt;" />
+                <marker date="1502123318000" expanded="true" signature="123:296" ph="@..." />
+                <marker date="1502123318000" expanded="true" signature="185:296" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -110,17 +64,26 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Emotivo.Web/bower.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/appsettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Models/Face.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Models/EmitionContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Models/EmotionEnum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Models/Picture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Helpers/EmotionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/bower.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/UploaderController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Views/Uploader/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/PictureController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/Views/Picture/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Emotivo.Web/Models/EmitionContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Emotivo.Web/.bowerrc" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -134,6 +97,11 @@
         <option value="$PROJECT_DIR$/Emotivo.Web/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/Emotivo.Web/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/Emotivo.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/Emotivo.Web/Models/Face.cs" />
+        <option value="$PROJECT_DIR$/Emotivo.Web/Models/EmotionEnum.cs" />
+        <option value="$PROJECT_DIR$/Emotivo.Web/Helpers/EmotionHelper.cs" />
+        <option value="$PROJECT_DIR$/Emotivo.Web/Views/Uploader/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Emotivo.Web/Controllers/UploaderController.cs" />
       </list>
     </option>
   </component>
@@ -144,10 +112,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -194,25 +162,7 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Views" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Emotivo (1 project)" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Emotivo.Web" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Models" />
+              <option name="myItemId" value="Helpers" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,6 +192,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,6 +217,48 @@
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -298,11 +291,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502059946934</updated>
       <workItem from="1502059988114" duration="3281000" />
+      <workItem from="1502117021932" duration="7676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3281000" />
+    <option name="totallyTimeSpent" value="10957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,29 +308,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28604925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -351,20 +345,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Picture/Details.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/PictureController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
           <folding>
-            <marker date="1502061801000" expanded="true" signature="6:268" ph="..." />
+            <marker date="1502061801000" expanded="false" signature="6:268" ph="..." />
             <marker date="1502061801000" expanded="true" signature="418:720" ph="{...}" />
             <marker date="1502061801000" expanded="true" signature="468:718" ph="{...}" />
             <marker date="1502061801000" expanded="true" signature="559:596" ph="{...}" />
@@ -379,70 +365,9 @@
           <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding>
             <marker date="1502061801000" expanded="true" signature="15:38" ph="@..." />
-            <marker date="1502061801000" expanded="true" signature="57:146" ph="&lt;html.../&gt;" />
             <marker date="1502061801000" expanded="true" signature="64:103" ph="&lt;head.../&gt;" />
             <marker date="1502061801000" expanded="true" signature="104:138" ph="&lt;body.../&gt;" />
             <marker date="1502061801000" expanded="true" signature="111:130" ph="&lt;div.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Emotivo.Web/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1502050615000" expanded="true" signature="15:162" ph="{...}" />
-            <marker date="1502050615000" expanded="true" signature="61:158" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1502050608000" expanded="false" signature="6:149" ph="..." />
-            <marker date="1502050608000" expanded="true" signature="172:546" ph="{...}" />
-            <marker date="1502050608000" expanded="true" signature="199:544" ph="{...}" />
-            <marker date="1502050608000" expanded="true" signature="252:538" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Emotivo.Web/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1502050615000" expanded="true" signature="0:196" ph="{...}" />
-            <marker date="1502050615000" expanded="true" signature="60:194" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Emotivo.Web/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Models/EmitionContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <marker date="1502066678000" expanded="false" signature="6:50" ph="..." />
-            <marker date="1502066678000" expanded="true" signature="80:576" ph="{...}" />
-            <marker date="1502066678000" expanded="true" signature="126:574" ph="{...}" />
-            <marker date="1502066678000" expanded="true" signature="205:238" ph="{...}" />
-            <marker date="1502066678000" expanded="true" signature="271:292" ph="{...}" />
-            <marker date="1502066678000" expanded="true" signature="332:386" ph="{...}" />
-            <marker date="1502066678000" expanded="true" signature="420:474" ph="{...}" />
-            <marker date="1502066678000" expanded="true" signature="514:568" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -464,7 +389,6 @@
         <state relative-caret-position="135">
           <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
-            <marker date="1502067383000" expanded="true" signature="66:226" ph="{...}" />
             <marker date="1502067383000" expanded="true" signature="113:224" ph="{...}" />
             <marker date="1502067383000" expanded="true" signature="171:218" ph="{...}" />
           </folding>
@@ -499,6 +423,226 @@
             <marker date="1502067563000" expanded="true" signature="1685:1800" ph="{...}" />
             <marker date="1502067563000" expanded="true" signature="1817:1901" ph="{...}" />
             <marker date="1502067563000" expanded="true" signature="1970:2141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Picture/Details.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Models/EmitionContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="29" column="66" lean-forward="false" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+          <folding>
+            <marker date="1502067563000" expanded="false" signature="6:357" ph="..." />
+            <marker date="1502067563000" expanded="true" signature="380:2161" ph="{...}" />
+            <marker date="1502067563000" expanded="true" signature="407:2159" ph="{...}" />
+            <marker date="1502067563000" expanded="true" signature="461:849" ph="{...}" />
+            <marker date="1502067563000" expanded="true" signature="1076:1306" ph="{...}" />
+            <marker date="1502067563000" expanded="true" signature="1524:2153" ph="{...}" />
+            <marker date="1502067563000" expanded="true" signature="1685:1800" ph="{...}" />
+            <marker date="1502067563000" expanded="true" signature="1817:1901" ph="{...}" />
+            <marker date="1502067563000" expanded="true" signature="1970:2141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1502067380000" expanded="true" signature="15:38" ph="@..." />
+            <marker date="1502067380000" expanded="true" signature="57:146" ph="&lt;html.../&gt;" />
+            <marker date="1502067380000" expanded="true" signature="64:103" ph="&lt;head.../&gt;" />
+            <marker date="1502067380000" expanded="true" signature="104:138" ph="&lt;body.../&gt;" />
+            <marker date="1502067380000" expanded="true" signature="111:130" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <marker date="1502067383000" expanded="true" signature="113:224" ph="{...}" />
+            <marker date="1502067383000" expanded="true" signature="171:218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Picture/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <marker date="1502061801000" expanded="true" signature="15:38" ph="@..." />
+            <marker date="1502061801000" expanded="true" signature="64:103" ph="&lt;head.../&gt;" />
+            <marker date="1502061801000" expanded="true" signature="104:138" ph="&lt;body.../&gt;" />
+            <marker date="1502061801000" expanded="true" signature="111:130" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/PictureController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <marker date="1502061801000" expanded="false" signature="6:268" ph="..." />
+            <marker date="1502061801000" expanded="true" signature="418:720" ph="{...}" />
+            <marker date="1502061801000" expanded="true" signature="468:718" ph="{...}" />
+            <marker date="1502061801000" expanded="true" signature="559:596" ph="{...}" />
+            <marker date="1502061801000" expanded="true" signature="664:711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Models/Face.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding>
+            <marker date="1502119125000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1502119125000" expanded="true" signature="81:840" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="105:838" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="133:187" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="217:271" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="281:621" ph="##region" />
+            <marker date="1502119125000" expanded="true" signature="310:364" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="386:440" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="466:520" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="547:601" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="661:715" ph="{...}" />
+            <marker date="1502119125000" expanded="true" signature="778:832" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Models/Picture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <marker date="1502051634000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1502051634000" expanded="true" signature="81:476" ph="{...}" />
+            <marker date="1502051634000" expanded="true" signature="108:474" ph="{...}" />
+            <marker date="1502051634000" expanded="true" signature="137:191" ph="{...}" />
+            <marker date="1502051634000" expanded="true" signature="219:273" ph="{...}" />
+            <marker date="1502051634000" expanded="true" signature="303:357" ph="{...}" />
+            <marker date="1502051634000" expanded="true" signature="414:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Models/EmotionEnum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1502120782000" expanded="true" signature="28:230" ph="{...}" />
+            <marker date="1502120782000" expanded="true" signature="58:228" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Helpers/EmotionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <marker date="1502122758000" expanded="true" signature="6:319" ph="..." />
+            <marker date="1502122758000" expanded="true" signature="350:2689" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="383:2687" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="475:547" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="625:853" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="947:1606" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="1079:1564" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="1148:1424" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="1716:2681" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="2128:2638" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="2219:2317" ph="{...}" />
+            <marker date="1502122758000" expanded="true" signature="2383:2547" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1502064780000" expanded="true" signature="25:58" ph="{...}" />
+            <marker date="1502064780000" expanded="true" signature="73:157" ph="{...}" />
+            <marker date="1502064780000" expanded="true" signature="119:153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Views/Uploader/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <marker date="1502123318000" expanded="true" signature="15:38" ph="@..." />
+            <marker date="1502123318000" expanded="true" signature="57:319" ph="&lt;html.../&gt;" />
+            <marker date="1502123318000" expanded="true" signature="64:103" ph="&lt;head.../&gt;" />
+            <marker date="1502123318000" expanded="true" signature="104:311" ph="&lt;body.../&gt;" />
+            <marker date="1502123318000" expanded="true" signature="111:303" ph="&lt;div.../&gt;" />
+            <marker date="1502123318000" expanded="true" signature="123:296" ph="@..." />
+            <marker date="1502123318000" expanded="true" signature="185:296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Emotivo.Web/Controllers/UploaderController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <marker date="1502127681000" expanded="true" signature="6:164" ph="..." />
+            <marker date="1502127681000" expanded="true" signature="199:1333" ph="{...}" />
+            <marker date="1502127681000" expanded="true" signature="250:1331" ph="{...}" />
+            <marker date="1502127681000" expanded="true" signature="461:527" ph="{...}" />
+            <marker date="1502127681000" expanded="true" signature="588:635" ph="{...}" />
+            <marker date="1502127681000" expanded="true" signature="718:1325" ph="{...}" />
+            <marker date="1502127681000" expanded="true" signature="822:1249" ph="{...}" />
+            <marker date="1502127681000" expanded="true" signature="911:1235" ph="{...}" />
           </folding>
         </state>
       </provider>

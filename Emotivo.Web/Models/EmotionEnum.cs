@@ -10,7 +10,7 @@
         Happiness,
         Neutral,
         Sadness,
-        Surprise
-
+        Surprise,
+        Undeterminated
     }
 }
