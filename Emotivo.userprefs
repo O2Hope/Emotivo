@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9379E767-E02A-4662-BE37-327F7966375C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Emotivo.Web/Controllers/PictureController.cs">
+    <Files>
+      <File FileName="Emotivo.Web/Controllers/PictureController.cs" Line="20" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Emotivo" expanded="True">
+            <Node name="Emotivo.Web" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PictureController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Emotivo.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
